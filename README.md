@@ -35,7 +35,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/student-dsa-tracker-ui.git
+git clone https://github.com/poojapatil16-github/-student-learning-app-ui.git
 cd student-learning-app-ui
 ```
 
